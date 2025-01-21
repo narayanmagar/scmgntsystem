@@ -130,3 +130,6 @@ STATICFILES_DIRS = [
 ]
 
 ROOT_URLCONF = 'myproject.urls'
+
+LOGOUT_REDIRECT_URL = 'home'
+

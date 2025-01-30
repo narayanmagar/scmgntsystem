@@ -1,1 +1,1 @@
-# A Complete Beginner's Guide to Django
+# School Management Software
